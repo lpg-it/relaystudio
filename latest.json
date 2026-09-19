@@ -1,21 +1,34 @@
 {
-  "version": "1.1.32",
-  "name": "RelayStudio 1.1.32",
+  "version": "1.1.33",
+  "name": "RelayStudio 1.1.33",
   "html_url": "https://github.com/lpg-it/relaystudio",
-  "published_at": "2026-09-18T14:14:54Z",
-  "notes": "RelayStudio 1.1.32\n\n自动更新安装包（GitHub Releases）：\n- macOS Apple Silicon：RelayStudio-darwin-arm64.zip\n- Windows amd64：RelayStudio-windows-amd64-setup.exe（首次安装和检查更新共用）",
+  "published_at": "2026-09-19T02:52:22Z",
+  "notes": "RelayStudio 1.1.33\n\n自动更新安装包（GitHub Releases）：\n- macOS Apple Silicon：RelayStudio-darwin-arm64.zip\n- Windows 首次安装：RelayStudio-windows-amd64-setup.exe\n- Windows 自动更新：RelayStudio-windows-amd64.exe\n- Windows 运行时（仅 tools 变更时下载）：RelayStudio-windows-amd64-runtime.zip",
+  "windows_tools_version": "db695a81af3ae520f6ec47d154936bac145c4dcde0f4e3e5c33859929e0aed14",
   "assets": [
     {
       "name": "RelayStudio-darwin-arm64.zip",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-darwin-arm64.zip",
-      "size": 87852887,
-      "sha256": "ccc7a2f1198543e9418dfc50aab5b955c8c76875a94755a6ad6e57b185e122d0"
+      "size": 87865840,
+      "sha256": "82633593538bcec3b6c21b51ef88ff04a16e86d2f89e600e2c200f02a67855f1"
+    },
+    {
+      "name": "RelayStudio-windows-amd64.exe",
+      "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64.exe",
+      "size": 56489472,
+      "sha256": "0d44dc2ab649f58f7a286396183af94472eb0c3f220e3ec96634fa41adb68c79"
+    },
+    {
+      "name": "RelayStudio-windows-amd64-runtime.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64-runtime.zip",
+      "size": 68124965,
+      "sha256": "9dfd3e247da1a216de77c4e6bfda35d3a88fb39f6df59316628cf6ca035bc980"
     },
     {
       "name": "RelayStudio-windows-amd64-setup.exe",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64-setup.exe",
-      "size": 100057933,
-      "sha256": "10498423735abd6d0a3c4fed2f800af74fe6e90c28b29b759b24ba1892c25cb7"
+      "size": 100073391,
+      "sha256": "53d7293ea7acc4024562367f44d928c6318b87918bc8a8850f472756ff60077d"
     }
   ]
 }
