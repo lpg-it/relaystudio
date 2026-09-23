@@ -1,28 +1,28 @@
 {
-  "version": "1.1.48",
-  "name": "RelayStudio 1.1.48",
+  "version": "1.1.49",
+  "name": "RelayStudio 1.1.49",
   "html_url": "https://github.com/lpg-it/relaystudio",
-  "published_at": "2026-09-23T05:33:38Z",
-  "notes": "RelayStudio 1.1.48\n\n自动更新安装包（GitHub Releases）：\n- macOS Apple Silicon：RelayStudio-darwin-arm64.zip\n- Windows 首次安装：RelayStudio-windows-amd64-setup.exe\n- Windows 自动更新：RelayStudio-windows-amd64.exe\n- Windows 运行时（仅 tools 变更时下载）：RelayStudio-windows-amd64-runtime.zip",
+  "published_at": "2026-09-23T07:05:52Z",
+  "notes": "RelayStudio 1.1.49\n\n自动更新安装包（GitHub Releases）：\n- macOS Apple Silicon：RelayStudio-darwin-arm64.zip\n- Windows 首次安装：RelayStudio-windows-amd64-setup.exe\n- Windows 自动更新：RelayStudio-windows-amd64.exe\n- Windows 运行时（仅 tools 变更时下载）：RelayStudio-windows-amd64-runtime.zip",
   "windows_tools_version": "db695a81af3ae520f6ec47d154936bac145c4dcde0f4e3e5c33859929e0aed14",
   "assets": [
     {
       "name": "RelayStudio-darwin-arm64.zip",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-darwin-arm64.zip",
-      "size": 88885343,
-      "sha256": "c7bbabcadeb2562c10512446c94f934e1314a7d91a6c143ae394b296b1a85e72"
+      "size": 88900429,
+      "sha256": "3989805046e291b0c59c838dda9c7c46b6d9bb7e3feb152811d263eefa24eace"
     },
     {
       "name": "RelayStudio-windows-amd64.exe",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64.exe",
-      "size": 59334144,
-      "sha256": "06bb939c571dc83a0a383f636a2f0770e39b100de8be93017ca3dec164a519d2"
+      "size": 59362304,
+      "sha256": "7a7cf774ffe1bdcd19360f172e33d77afaa4ca7aa131b6356ff88e74d6f3d3b1"
     },
     {
       "name": "RelayStudio-windows-amd64-runtime.zip",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64-runtime.zip",
       "size": 68124965,
-      "sha256": "29eaaaf42e79d4b4d7ef7ad3cbeeb6b613094d7c5364ab83eadcdd41dcdfabbf"
+      "sha256": "50cb597930aa88edf6bea0387f56b46d4591836bfb4603cc6146c65d7e4ad1b3"
     }
   ]
 }
