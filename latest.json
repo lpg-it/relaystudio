@@ -1,34 +1,34 @@
 {
-  "version": "1.1.72",
-  "name": "RelayStudio 1.1.72",
+  "version": "1.1.73",
+  "name": "RelayStudio 1.1.73",
   "html_url": "https://github.com/lpg-it/relaystudio",
-  "published_at": "2026-09-26T03:07:46Z",
-  "notes": "RelayStudio 1.1.72\n\n自动更新安装包（GitHub Releases）：\n- macOS Apple Silicon：RelayStudio-darwin-arm64.zip\n- Windows 首次安装：RelayStudio-windows-amd64-setup.exe\n- Windows 自动更新：RelayStudio-windows-amd64.exe\n- Windows 运行时（仅 tools 变更时下载）：RelayStudio-windows-amd64-runtime.zip",
+  "published_at": "2026-09-26T04:10:23Z",
+  "notes": "RelayStudio 1.1.73\n\n自动更新安装包（GitHub Releases）：\n- macOS Apple Silicon：RelayStudio-darwin-arm64.zip\n- Windows 首次安装：RelayStudio-windows-amd64-setup.exe\n- Windows 自动更新：RelayStudio-windows-amd64.exe\n- Windows 运行时（仅 tools 变更时下载）：RelayStudio-windows-amd64-runtime.zip",
   "windows_tools_version": "db695a81af3ae520f6ec47d154936bac145c4dcde0f4e3e5c33859929e0aed14",
   "assets": [
     {
       "name": "RelayStudio-darwin-arm64.zip",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-darwin-arm64.zip",
-      "size": 89461535,
-      "sha256": "08098b6918416b587c48dc6f17e8108d89b142163e3bc4b51578a921d082743c"
+      "size": 89478628,
+      "sha256": "8a7f66e98e7992e4b19247c3e97e33dc1c0f6a99c7576271dafca0dec48ca1c7"
     },
     {
       "name": "RelayStudio-windows-amd64.exe",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64.exe",
-      "size": 61496320,
-      "sha256": "e1e5d90be036ee256caca6dffae4be332095d468b5e1bf0a2e80e528290e2973"
+      "size": 61539840,
+      "sha256": "5edea7f8565c724e7ad0eb53e98e8f2cbd06ac7f0bd49902e71e45be39e3bb3e"
     },
     {
       "name": "RelayStudio-windows-amd64-runtime.zip",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64-runtime.zip",
       "size": 68124965,
-      "sha256": "4a57b7a2680481dac6fea5905a04df783c45cfdb82d9ff48c45b345650da79e0"
+      "sha256": "2e4c0a50eaa39ecb15b4daa69845e243554ef28564c9887c3d9d4714b545a251"
     },
     {
       "name": "RelayStudio-windows-amd64-setup.exe",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64-setup.exe",
-      "size": 101773597,
-      "sha256": "7c99b483aa7c9ce710777591e12300dbf6864a90b1a917181ef8c129b00bc9e8"
+      "size": 101786276,
+      "sha256": "a1f09c37000ed9b8822d29fe5f61f33a9c4f2760b445797a108efc0d3872d7e6"
     }
   ]
 }
