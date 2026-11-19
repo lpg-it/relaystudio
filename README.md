@@ -2,7 +2,7 @@
 
 This repository publishes **installers only**. Source code is not included.
 
-Current version: `1.1.111`
+Current version: `1.1.112`
 
 Download:
 
