@@ -1,34 +1,34 @@
 {
-  "version": "1.1.114",
-  "name": "RelayStudio 1.1.114",
+  "version": "1.1.115",
+  "name": "RelayStudio 1.1.115",
   "html_url": "https://github.com/lpg-it/relaystudio",
-  "published_at": "2026-11-20T00:56:14Z",
-  "notes": "RelayStudio 1.1.114\n\n- YouTube 遇到登录校验时，自动尝试 pytubefix 备用下载，并使用 FFmpeg 合并和校验 MP4。\n- 获取任务增加单独重试 YouTube 失败项的操作，已下载文件可直接复用。\n- 备用下载使用本机原生 Python 3.10 或更新版本，首次使用会准备并校验固定依赖。",
-  "windows_tools_version": "5649c64d6db8465b9fa9c04942366f2350431520ac466a0668f2c9cdfa874905",
+  "published_at": "2026-11-20T04:53:00Z",
+  "notes": "RelayStudio 1.1.115\n\n- YouTube 直接使用 pytubefix 下载音视频，并通过 FFmpeg 合并 MP4。\n- TikTok 使用 yt-dlp。重启后继续未完成的获取任务，复用已下载文件。",
+  "windows_tools_version": "d1f4d86fc3eba385bb88f2baef29a756401e68e2b55012aef0765c95b70678e3",
   "assets": [
     {
       "name": "RelayStudio-darwin-arm64.zip",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-darwin-arm64.zip",
-      "size": 90382036,
-      "sha256": "1f5fead306d0429624d52e64279c6eb28c3824aab0de782ca80347526c51991a"
+      "size": 90378657,
+      "sha256": "001a1f08b5b1a8fac5b9e638450a06385de2374334fcad5769b8be1b533a6c8b"
     },
     {
       "name": "RelayStudio-windows-amd64.exe",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64.exe",
-      "size": 64222208,
-      "sha256": "4c5af57d45c5a70072dab5bca5521f3d291bf039b426e450ceefd289293e79e0"
+      "size": 64217088,
+      "sha256": "b9c26d6431c1270f401037cb1b3930ee198f7f06df2621be74c35c973f0f0b90"
     },
     {
       "name": "RelayStudio-windows-amd64-runtime.zip",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64-runtime.zip",
-      "size": 68132532,
-      "sha256": "9377e8b41f90b769eb4dc94801d0c48efffac65a28848091fe9212ddc14d35ce"
+      "size": 68132575,
+      "sha256": "50a745f79f1414959432e934ece969742da0a00daf195d3b645bf8688ac1e5ae"
     },
     {
       "name": "RelayStudio-windows-amd64-setup.exe",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64-setup.exe",
-      "size": 102763411,
-      "sha256": "04c8cd54789e0a875111d443b98a203c9b66ac62cfc67d73d764543e691a5c28"
+      "size": 102760452,
+      "sha256": "74fa4ee69868b24ffe999a2467c8c88f0fefdcbae588195b6b4a274417f6a1e4"
     }
   ]
 }
