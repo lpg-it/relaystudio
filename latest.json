@@ -1,34 +1,34 @@
 {
-  "version": "1.1.116",
-  "name": "RelayStudio 1.1.116",
+  "version": "1.1.117",
+  "name": "RelayStudio 1.1.117",
   "html_url": "https://github.com/lpg-it/relaystudio",
-  "published_at": "2026-11-20T05:34:34Z",
-  "notes": "RelayStudio 1.1.116\n\n- 网站推广的同一创建批次按网站共享已核实的研究结果，每轮最多为 10 条视频生成正文。\n- Grok 在同一会话中完成研究并续写。其他本地 Agent 复用该批次的网站事实和近期正文。\n- 正文按视频逐条校验和保存。补写只处理失败项，并复用已保存的网站事实。",
+  "published_at": "2026-11-20T10:10:41Z",
+  "notes": "RelayStudio 1.1.117\n\n- 提交网站推广视频后，正文生成与视频去重各自启动。编码中的视频也可以写入和查看正文。\n- 同一批次复用已核实的网站事实和 Grok 对话。补写空白正文时保留已经写好或手动编辑的内容。\n- 创建后可直接查看本批视频，分别跟踪去重进度和正文写入进度。",
   "windows_tools_version": "d1f4d86fc3eba385bb88f2baef29a756401e68e2b55012aef0765c95b70678e3",
   "assets": [
     {
       "name": "RelayStudio-darwin-arm64.zip",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-darwin-arm64.zip",
-      "size": 90392473,
-      "sha256": "70a2838622d9ed226a47cac76c94cccda2b56cd9d619eaaedf8c43ffb8521c3b"
+      "size": 90398074,
+      "sha256": "0c43ec34df72b63a6ab1e6a31de09090a9010eb5ddb1883580122e8eed99040d"
     },
     {
       "name": "RelayStudio-windows-amd64.exe",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64.exe",
-      "size": 64263168,
-      "sha256": "9d85d0f7f42fe6f4a16c6923b20570089817fd299f2536019835c1b99a74e9d9"
+      "size": 64281088,
+      "sha256": "0cafd4d49986b3188d839ccf05b2dd67909083a56beced4eeadf6659b1fac3bc"
     },
     {
       "name": "RelayStudio-windows-amd64-runtime.zip",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64-runtime.zip",
       "size": 68132575,
-      "sha256": "e37e1d028cc942f551faca23945523dc0d32ee37ca3912e8e9bba81878566850"
+      "sha256": "64040fddc0d16c88fc4879ba609983a5edfec7c53d81ab82700daa4ae84df9eb"
     },
     {
       "name": "RelayStudio-windows-amd64-setup.exe",
       "browser_download_url": "https://raw.githubusercontent.com/lpg-it/relaystudio/main/RelayStudio-windows-amd64-setup.exe",
-      "size": 102783049,
-      "sha256": "4c3b23286e54c7c312ec9ec242c3c5c3f47edd3cb72a9230cc988b241609cd77"
+      "size": 102791504,
+      "sha256": "c2e6234dff376a60393853d4b1d1c1175b593464a299901c97a4ad8d88874d22"
     }
   ]
 }
